@@ -37,8 +37,6 @@
 * [Alpha](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS.
 
 #### Linter
-* [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
-* [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. :large_orange_diamond:
 * [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. :large_orange_diamond:
 
 ## Color
