@@ -420,294 +420,94 @@
 * [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift :large_orange_diamond:
 * [infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
 
-# Rapid Development
-* [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
-* [MMBarricade](https://github.com/mutualmobile/MMBarricade) - Runtime configurable local server for iOS apps.
-* [STV Framework](http://www.sensiblecocoa.com) - Native visual iOS development.
-
 # Injection
-* [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
-* [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
 * [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
-* [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
-* [Kraken](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
 * [Cleanse](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework by Square. :large_orange_diamond:
 * [Typhoon](https://github.com/appsquickly/Typhoon) - Powerful dependency injection (Objective-C & Swift).
-* [Perform](https://github.com/thoughtbot/Perform) - Easy dependency injection for storyboard segues. :large_orange_diamond:
-* [Alchemic](https://github.com/drekka/Alchemic) - Advanced, yet simple to use DI framework for Objective-C. 
-* [Alchemic-Swift](https://github.com/drekka/Alchemic-Swift) - Swift wrapper for Alchemic. :large_orange_diamond:
 
 # Deployment / Distribution
 * [fastlane](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
-* [deliver](https://github.com/fastlane/fastlane/tree/master/deliver) - Upload screenshots, metadata and your app to the App Store using a single command.
-* [snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot) Automate taking localized screenshots of your iOS app on every device.
-* [buddybuild](https://buddybuild.com/) - A mobile iteration platform - build, deploy, and collaborate.
 * [Bitrise](https://www.bitrise.io) Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate.
-* [watchbuild](https://github.com/fastlane/fastlane/tree/master/watchbuild) - Get a notification once your iTunes Connect build is finished processing.
 * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
 * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
 * [HockeyApp](https://www.hockeyapp.net) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
-* [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
 * [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
-* [Boombox.io](https://boombox.io/) - Sign up TestFlight beta testers on your website. Embeddable and hosted TestFlight beta sign-up forms
 
 # App Store
-* [Average App Store Review Times](http://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
-* [Apple's Common App Rejections Styleguide](https://developer.apple.com/app-store/review/rejections/)  Highlighted some of the most common issues that cause apps to get rejected.
-* [Free App Store Optimization Tool](https://www.mobileaction.co) Lets you track your App Store visibility in terms of keywords and competitors.
-* [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.
-* [Harpy](https://github.com/ArtSabintsev/Harpy) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
 * [iRate](https://github.com/nicklockwood/iRate) - A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while. Similar to Appirater, but with a simpler, cleaner interface and automatic support for iOS fast application switching.
 * [appirater](https://github.com/arashpayan/appirater) - A utility that reminds your iPhone app's users to review the app.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade. :large_orange_diamond:
-* [Appstore Review Guidelines](https://github.com/aashishtamsya/Appstore-Review-Guidelines) - A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review.
 
 # Xcode
 
 #### Plugins
 * [FuzzyAutocompletePlugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin) - A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix-matching.
 * [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) - SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode.
-* [Show in Github](https://github.com/larsxschneider/ShowInGitHub) - Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
-* [BBUFullIssueNavigator](https://github.com/neonichu/BBUFullIssueNavigator) - Xcode plugin for showing all issue content in the issue navigator.
 * [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway) - Xcode plugin for auto-hiding the debugger once you start typing in the source code editor.
-* [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander) - SCXcodeSwitchExpander is a small Xcode plugin that expands switch statements by inserting missing cases.
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write Javadoc style documents easier.
-* [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
-* [CocoaPods Xcode Plugin](https://github.com/kattrali/cocoapods-xcode-plugin) - Dependency management helper for your CocoaPods, right in Xcode.
-* [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) - Xcode plug-in that provides autocomplete for imageNamed: calls.
-* [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) - Plugin for Xcode to make working with colors more visual.
-* [Backlight-for-XCode](https://github.com/limejelly/Backlight-for-XCode) - Highlights the current editing line in Xcode
-* [KPRunEverywhereXcodePlugin](https://github.com/kitschpatrol/KPRunEverywhereXcodePlugin) - An Xcode plugin to build and run an app across multiple iOS devices with one click.
-* [RevealPlugin](https://github.com/shjborage/Reveal-Plugin-for-Xcode) - Plugin for Xcode to integrate the Reveal App to your project automatic.
-* [RealmPlugin](https://realm.io/docs/objc/0.81.0/#xcode-plugin)- Xcode plugin to generate new Realm models.
-* [AdjustFontSize](https://github.com/zats/AdjustFontSize-Xcode-Plugin) - Instant font size adjustment with `⌘ +` / `⌘ -`.
-* [Rephrase](https://www.rephrase.io) - Localise from Xcode.
-* [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin.
-* [QuickJump](https://github.com/wiruzx/QuickJump) - Quick code navigation for Xcode.
-* [CATweaker](https://github.com/keefo/CATweaker) - Plugin for creating beautiful CAMediaTimingFunction curve.
-* [XcodeWay](https://github.com/onmyway133/XcodeWay) - An Xcode plugin that makes navigating to many places easier (available via Alcatraz).
-* [GitDiff](https://github.com/johnno1962/GitDiff) - Highlights deltas against git repo in Xcode.
-* [MCLog](https://github.com/yuhua-chen/MCLog) - Xcode plugin for filtering the console area.
-* [XToDo](https://github.com/trawor/XToDo) - Dialog with list of all TODO, FIXME, ??? and !!! in the project.
-* [CopyIssue](https://github.com/hanton/CopyIssue-Xcode-Plugin) - Makes Copy Xcode Issue Description Easy.
-* [RTImageAssets](https://github.com/rickytan/RTImageAssets) - A Xcode plugin to automatically generate all the App icons needed.
-* [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) - Xcode plugin to format source code using ClangFormat or Uncrustify.
-* [Aviator](https://github.com/marksands/Aviator) - Xcode plugin that brings ⇧⌘T (source/test toggle) from AppCode over to Xcode.
-* [JumpMarks](https://github.com/merrickp/JumpMarks) - Navigate your code files with numbered bookmarks.
-* [XCSnippetr](https://github.com/dzenbot/XCSnippetr) - An Xcode Plugin to upload code snippets directly into Slack and Gist.
-* [Peckham](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.
-* [MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin, Re-Intent, make you write code more quickly.
-* [AutoHighlightSymbol](https://github.com/chiahsien/AutoHighlightSymbol) - A Xcode plugin to add highlight to the instances of selected symbol.
-* [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-Github) - Xcode plugin to let you jump to GitHub History, Blame, PRs, Issues, Notifications of any GitHub repo with one shortcut.
-* [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A simple iSort like header sorting and duplicate removal plugin for Xcode, makes your headers look more organized.
-* [Luft](https://github.com/k0nserv/luft) - The Xcode Plugin that helps you write lighter view controllers
-* [You-Can-Do-It](https://github.com/orta/You-Can-Do-It) - Is learning a new language getting you down? Worry not, this Xcode plugin will keep you motivated.
-* [PreciseCoverage](https://github.com/zats/PreciseCoverage) - Make Xcode code coverage more informative
-* [AutoIndentWithSave](https://github.com/ThilinaHewagama/AutoIndentWithSave) Xcode plugin which indent the source code when save
-* [Refactorator](https://github.com/johnno1962/Refactorator) - SourceKit Xcode Plugin that Refactors Swift :large_orange_diamond:
 * [VWInstantRun](https://github.com/wangshengjia/VWInstantRun) - An Xcode plugin let you build & run your selected lines of code in Xcode without running the whole project, you'll have the output instantly in your Xcode console. :large_orange_diamond:
-* [TTPasteHistory](https://github.com/tutumagi/TTPasteHistory) - A Xcode plugin. Recording you copy-and-paste history easily to write the code
-* [xSendIssue](https://github.com/hungri-yeti/xSendIssue) - Plugin for Xcode to submit github issues directly from within Xcode.
-* [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
-* [Fastlane-Plugin](https://github.com/RishabhTayal/Fastlane-Plugin) - The awesome Fastlane tools brought into your Xcode.
-* [Gradle Xcode plugin](https://openbakery.org/gradle.html) - Build iOS or Mac OS X Projects using Gradle.
-* [SYXcodeIconVersion](https://github.com/dvkch/SYXcodeIconVersion) - This Xcode plugin shows Xcode app version in the Dock and App Switcher icon :large_orange_diamond:
-* [Gradle](https://github.com/openbakery/gradle-xcodePlugin) - makes it easier to build Xcode projects by specifying the build settings in a single configuration file :large_orange_diamond:
-* [HOStringSense-for-Xcode](https://github.com/holtwick/HOStringSense-for-Xcode) - Plugin for Xcode to make perfect editing regular expressions, multi line texts, inline HTML and many more use cases. Also provides quick feedback on string length.
-* [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax. :large_orange_diamond:
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode 8 Source Editor Extension Toolset
-* [FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) - Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.
-* [JSPatchX](https://github.com/bang590/JSPatchX) - A XCode plugin that provides autocompletion for JSPatch
-* [Dash](https://kapeli.com/dash) - Dash is a great documentation browser which integrates closely into Xcode with its plugin.
-* [SFJumpToLine](https://github.com/sferrini/SFJumpToLine) - Xcode plugin that moves the instruction pointer to the selected line
-* [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) - An Xcode plug-in to format your code using Clang's format tools.
-* [update_xcode_plugins](https://github.com/inket/update_xcode_plugins) - No more messing with plugin UUIDs; Plugins on Xcode 8!
-* [MakeXcodeGr8Again](https://github.com/fpg1503/MakeXcodeGr8Again) - Xcode + Plugins = :blue_heart: :large_orange_diamond:
-* [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers. :large_orange_diamond:
 
 #### Themes
-* [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
 * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
-* [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 * [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 
 #### Other Xcode
 
-* [awesome-xcode-scripts](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts 📝.
 * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
-* [dsnip](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
-* [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator
-* [awesome-gitignore-templates](https://github.com/aashishtamsya/awesome-gitignore-templates) - A collection of swift, objective-c, android and many more langugages .gitignore templates 📝.
 
 # Reference
 * [Swift Cheat Sheet](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift. :large_orange_diamond:
-* [Objective-C Cheat Sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet) - A quick reference cheat sheet for common, high level topics in Objective-C.
-* [SwiftSnippets](https://github.com/hyperoslo/SwiftSnippets) - A collection of Swift snippets to be used in Xcode
 
 # Style Guides
-* [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
-* [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com.
 * [Github Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
-* [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) - Gist with coding conventions.
 * [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com. :large_orange_diamond:
-* [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) - Guidelines for iOS development in use at Spotify.
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0) -
 * [Github - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) - A guide to our Swift style and conventions by @github. :large_orange_diamond:
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
-* [Swift-Community-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices/) - Best practices for software development with Swift :large_orange_diamond:
-* [SlideShare Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md) - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift :large_orange_diamond:
-* [Prolific Interactive Style Guide](https://github.com/prolificinteractive/swift-style-guide) - A style guide for Swift made by Prolific Interactive :large_orange_diamond:
 
 # Good Websites
 
 #### News, Blogs and more
-* [BGR](http://bgr.com/ios-7/)
-* [iMore](http://www.imore.com/)
-* [Lifehacker](http://lifehacker.com/tag/ios)
 * [NSHipster](http://nshipster.com)
 * [Objc.io](https://www.objc.io/)
 * [ASCIIwwdc](http://asciiwwdc.com)
-* [Natasha The Robot](https://www.natashatherobot.com/)
 * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) :large_orange_diamond:
-* [iOS Programming Subreddit](https://www.reddit.com/r/iosprogramming)
 * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) :large_orange_diamond:
-* [iOScreator](http://www.ioscreator.com/) :large_orange_diamond:
 * [Mathew Sanders](http://mathewsanders.com/) :large_orange_diamond:
 * [Little Bites of Cocoa](https://littlebitesofcocoa.com/) :large_orange_diamond:
 * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
-* [This Week in Swift](http://swiftnews.curated.co) :large_orange_diamond:
-* [iOS Developer and Designer interview](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day) :large_orange_diamond:
 * [Code Facebook](https://code.facebook.com/ios/)
 * [iOS Cookies](http://www.ioscookies.com/) - A hand curated collection of iOS libraries written in Swift :large_orange_diamond:
-* [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
-
-#### UIKit references
-* [iOS Fonts](http://iosfonts.com/)
-* [UIAppearance list](https://gist.github.com/mattt/5135521)
-
-#### Forums and discuss lists
-* [iPhone Dev SDK Forum](http://iphonedevsdk.com/)
-* ["iOS" on Stackoverflow](http://stackoverflow.com/questions/tagged/ios)
 
 #### Tutorials and Keynotes
-* [AppCoda](http://www.appcoda.com)
-* [Tutorials Point](http://www.tutorialspoint.com/ios/)
-* [Code with Chris](http://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Cocoa is my Girlfriend](http://www.cimgf.com/)
-* [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
-* [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
-* [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index)
-* [Mike Ash](https://www.mikeash.com/pyblog/)
-* [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) :large_orange_diamond:
-* [Tuts+](https://code.tutsplus.com/categories/ios-sdk) :large_orange_diamond:
-* [iOS-Blog](http://www.ios-blog.co.uk/) :large_orange_diamond:
-* [Thinkster](https://thinkster.io/a-better-way-to-learn-swift) :large_orange_diamond:
-* [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development. :large_orange_diamond:
-* [Cocoa Dev Central](http://cocoadevcentral.com)
-* [Use Your Loaf](http://useyourloaf.com)
-* [Swift Tutorials by Jameson Quave](http://jamesonquave.com/blog/tutorials/) :large_orange_diamond:
 * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: All of the resources for Learning About Swift :large_orange_diamond:
 * [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) - A List of Awesome Swift Playgrounds! :large_orange_diamond:
-* [learn-swift](https://github.com/nettlep/learn-swift) - Learn Apple's Swift programming language interactively through these playgrounds. :large_orange_diamond:
-* [Treehouse's iOS Courses and Workshops](https://teamtreehouse.com/library/topic:ios) - Topics for beginner and advanced developers in both Objective-C and Swift.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds. :large_orange_diamond:
 
 #### iOS UI Template
-* [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone/)
 * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
 * [iOS Design Guidelines](http://ivomynttinen.com/blog/ios-design-guidelines)
 * [iOS GUI by Facebook Design Resources](http://facebook.design/)
 
 #### Prototyping
-* [FluidUI](https://www.fluidui.com)
 * [Proto.io](https://proto.io/)
-* [Framer](https://framerjs.com/)
-* [Pixate](http://www.pixate.com/)
 * [Principle](http://principleformac.com)
-
-#### Newsletters
-* [iOS Goodies](http://ios-goodies.com) - Weekly iOS newsletter
-* [This Week in Swift](https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
-* [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem.
-* [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
-* [raywenderlich.com Weekly](https://www.raywenderlich.com/newsletter) - sign up to receive the latest tutorials from raywenderlich.com each week
-* [iOS Dev Tools Weekly](https://iosdev.tools) - The greatest iOS development tools, including websites, desktop and mobile apps, and back-end services.
-* [iOS Trivia Weekly](http://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b) - Three challenging questions about iOS development every Wednesday
-* [Indie iOS Focus Weekly](https://indieiosfocus.curated.co) - Looking for the best iOS dev links, tutorials, & tips beyond the usual news? Curated by Chris Beshore. Published every Thursday.
-* [iOS Dev Weekly](https://iosdevweekly.com/) - Subscribe to a hand-picked round up of the best iOS development links every week. Free.
-* [Swift Weekly Brief](http://swiftweekly.github.io/) - A community-driven weekly newsletter about Swift.org. Curated by Jesse Squires and published for free every Thursday
-* [Server-Side Swift Weekly](https://www.serverswift.tech) - A weekly newsletter with the best links related to server-side Swift and cross-platform developer tools. Curated by [@maxdesiatov](https://twitter.com/maxdesiatov)
 
 #### Medium
 * [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 * [Swift Programming](https://medium.com/swift-programming) - The Swift Programming Language
 
-# Social Media
-
-#### Twitter
-* [@objcio](https://twitter.com/objcio)
-* [@nshipster](https://twitter.com/NSHipster)
-* [@CocoaPods](https://twitter.com/CocoaPods)
-* [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
-* [@RubyMotion](https://twitter.com/RubyMotion)
-* [@SwiftSandbox](https://twitter.com/SwiftSandbox) - Swift open source news, projects and resources.
-
-
-#### Facebook Groups
-* [HH iOS](https://www.facebook.com/groups/hhios/)
-* [Sketch - Official group](https://www.facebook.com/groups/sketchformac/)
-* [Design-Code](https://www.facebook.com/groups/designcode/)
-* [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio)
-* [Origami Community](https://www.facebook.com/groups/origami.community/)
-* [Framer JS](https://www.facebook.com/groups/framerjs/)
-
-# Podcasts
-* [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
-* [Debug](http://www.imore.com/debug)
-* [iDeveloper](http://blog.ideveloper.co/)
-* [App Story](http://www.appstorypodcast.com)
-* [Mobile Couch](http://mobilecouch.co/)
-* [iPhreaks](https://devchat.tv/iphreaks)
-* [Under the Radar](https://www.relay.fm/radar)
-* [Core Intuition](http://www.coreint.org/)
-* [Swift Playhouse](http://www.swiftplayhouse.com/)
-* [Release Notes](https://releasenotes.tv/)
-* [More Than Just Code](http://mtjc.fm/)
-* [Runtime](https://spec.fm/podcasts/runtime)
-* [Consult](http://consultpodcast.com/)
-
 # Books
-* [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) :large_orange_diamond:
-* [Using Swift with Cocoa and Objective C by Apple](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) :large_orange_diamond:
 * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/we-write/ios-programming/)
 * [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
-* [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
-* [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
-* [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 * [Cocoa Design Patterns](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 * [Hello Swift! by Tanmay Bakshi with Lynn Beighley](https://www.manning.com/books/hello-swift) :large_orange_diamond:
 * [OS Development with Swift by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift) :large_orange_diamond:
 * [Anyone Can Create an App by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app) :large_orange_diamond:
-
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
-* Awesome-swift
-  * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
-  * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
-  * [Education](https://github.com/hsavit1/Awesome-Swift-Education) - All the resources you need to learn Swift
-* [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials. :watch:
-* [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) Comprehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
-* [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
-* [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
-* [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
-* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
-* [Awesome Reactive Programming in Swift](https://github.com/SideEffects-xyz/Awesome-Reactive-Programming-Swift) - A collection of frameworks, talks and resources about reactive programming in Swift.
-* [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList) - A list of Awesome Server Side Swift 3 projects
 
 # Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
